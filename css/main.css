@@ -33,3 +33,8 @@ figure {
   position: relative;
   top: 25%;
 }
+@media (max-width: 576px)  {
+  .display-4{
+      font-size: 2em;
+  }
+}
